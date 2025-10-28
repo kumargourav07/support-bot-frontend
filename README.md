@@ -18,12 +18,6 @@ A React-based helpdesk chat interface built with Vite and modern UI components.
 ### Chat Home
 ![Chat Home](/public/screenshots/chat-home.png)
 
-> Note: To add your screenshots:
-> 1. Take screenshots of your application
-> 2. Save them in the `/public/screenshots` folder
-> 3. Name them `chat-interface.png` and `chat-home.png` respectively
-> 4. Commit and push them to see them displayed here
-
 ## Tech Stack
 
 - React with Vite
